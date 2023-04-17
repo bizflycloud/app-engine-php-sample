@@ -1,6 +1,6 @@
 Đây là repo code mẫu cho một ứng dụng PHP với trình quản lý Composer triển khai trên nền tảng BizflyCloud App Engine
 
-L
+Lưu ý: Bạn cần khai báo câu lệnh chạy trong **Procfile** để ứng dụng PHP có thể chạy.
 
 Tham khảo thêm cách thức triển khai ứng dụng PHP tại đây
 
